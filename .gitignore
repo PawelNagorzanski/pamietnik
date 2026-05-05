@@ -2,7 +2,7 @@ build/
 debug/
 release/
 
-# C++ objects and libs
+
 *.slo
 *.lo
 *.o
